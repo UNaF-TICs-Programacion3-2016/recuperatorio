@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------------------------
+-- ///////  TABLE RESERVA /////////
+----------------------------------------------------------------------------------------------------
+
+CREATE TABLE RESERVA(
+	ID_RESERVA number(10) not null
+,	RESERVA_FDESDE DATE 
+,	RESERVA_FHASTA DATE 
+,	RESERVA_TIPOHABITACION VARCHAR2(80) 
+,	RESERVA_CANTADULTOS NUMBER(2) 
+,	RESERVA_CANTNINOS NUMBER(2)
+,
+
+ 	CONSTRAINT PK_RESERVA PRIMARY KEY ( ID_RESERVA )
+
+);
+
+COMMENT ON TABLE RESERVA is 'Reservas del Hotel Asterion';
+
+CREATE SEQUENCE S_RESERVA INCREMENT BY 1 START WITH 1 MINVALUE 1 MAXVALUE 9999999999 NOCYCLE NOORDER CACHE 20;
+
+CREATE OR REPLACE TRIGGER INSERT_RESERVA
+BEFORE INSERT ON RESERVA
+REFERENCING NEW AS NEW OLD AS OLD
+FOR EACH ROW
+Begin
+
+ select S_RESERVA.NextVal into :new.ID_RESERVA from dual;
+
+End;

@@ -1,0 +1,15 @@
+D:\Heber\Documents\Visual Studio 2015\Repos\CuentasBancarias\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Heber\Documents\Visual Studio 2015\Repos\CuentasBancarias\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Heber\Documents\Visual Studio 2015\Repos\CuentasBancarias\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Heber\Documents\Visual Studio 2015\Repos\CuentasBancarias\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Heber\Documents\Visual Studio 2015\Repos\CuentasBancarias\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Heber\Documents\Visual Studio 2015\Repos\CuentasBancarias\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Heber\Documents\Visual Studio 2015\Repos\CuentasBancarias\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Heber\Documents\Visual Studio 2015\Repos\CuentasBancarias\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Heber\Documents\Visual Studio 2015\Repos\CuentasBancarias\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Heber\Documents\Visual Studio 2015\Repos\CuentasBancarias\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Heber\Documents\Visual Studio 2015\Repos\CuentasBancarias\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Heber\Documents\Visual Studio 2015\Repos\recuperatorio\AppReservas\AppReservas\bin\Debug\WindowsApplication1.exe.config
+D:\Heber\Documents\Visual Studio 2015\Repos\recuperatorio\AppReservas\AppReservas\obj\Debug\WindowsApplication1.exe
+D:\Heber\Documents\Visual Studio 2015\Repos\recuperatorio\AppReservas\AppReservas\obj\Debug\WindowsApplication1.xml
+D:\Heber\Documents\Visual Studio 2015\Repos\recuperatorio\AppReservas\AppReservas\obj\Debug\WindowsApplication1.pdb
